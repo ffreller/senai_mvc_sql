@@ -1,4 +1,4 @@
-namespace cadastro_senai.Dominio
+namespace senai_mvc_sql.Dominio
 {
     public class Aluno
     {

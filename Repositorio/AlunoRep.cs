@@ -2,9 +2,9 @@ using System;
 using System.Collections.Generic;
 using System.Data;
 using System.Data.SqlClient;
-using cadastro_senai.Dominio;
+using senai_mvc_sql.Dominio;
 
-namespace cadastro_senai.Repositorio
+namespace senai_mvc_sql.Repositorio
 {
     public class AlunoRep
     {

@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/cadastro_senai.csproj"
+                "${workspaceFolder}/senai_mvc_sql.csproj"
             ],
             "problemMatcher": "$msCompile"
         }

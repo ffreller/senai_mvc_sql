@@ -1,11 +1,11 @@
 using Microsoft.AspNetCore.Mvc;
 using System.Text.Encodings.Web;
-using cadastro_senai.Repositorio;
-using cadastro_senai.Dominio;
+using senai_mvc_sql.Repositorio;
+using senai_mvc_sql.Dominio;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace cadastro_senai.Controllers
+namespace senai_mvc_sql.Controllers
 {
     public class AlunoController : Controller
     {

@@ -21,7 +21,7 @@
   },
   "targets": {
     ".NETCoreApp,Version=v2.0": {
-      "cadastro_senai/1.0.0": {
+      "senai_mvc_sql/1.0.0": {
         "dependencies": {
           "Microsoft.AspNetCore.All": "2.0.0",
           "Microsoft.NETCore.App": "2.0.0"
@@ -3973,7 +3973,7 @@
     }
   },
   "libraries": {
-    "cadastro_senai/1.0.0": {
+    "senai_mvc_sql/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

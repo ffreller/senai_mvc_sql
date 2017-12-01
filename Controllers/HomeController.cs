@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using cadastro_senai.Models;
+using senai_mvc_sql.Models;
 
-namespace cadastro_senai.Controllers
+namespace senai_mvc_sql.Controllers
 {
     public class HomeController : Controller
     {

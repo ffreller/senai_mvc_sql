@@ -1,6 +1,6 @@
 using System;
 
-namespace cadastro_senai.Models
+namespace senai_mvc_sql.Models
 {
     public class ErrorViewModel
     {
